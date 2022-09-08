@@ -8,5 +8,5 @@
 
   - [Acceder a la web de GitHunb](https://github.com/)
 
--**Comandos de la terminal:** Un comando es un programa de software que al ejecutarlo en la CLI (interfaz de línea de comandos) realiza una acción en el ordenador. Cuando se escribe un comando, el sistema operativo ejecuta un proceso que puede leer una entrada, manipular datos y producir la salida. Un comando ejecuta un proceso en el sistema operativo, y entonces causa que el ordenador realice un trabajo.
+- **Comandos de la terminal:** Un comando es un programa de software que al ejecutarlo en la CLI (interfaz de línea de comandos) realiza una acción en el ordenador. Cuando se escribe un comando, el sistema operativo ejecuta un proceso que puede leer una entrada, manipular datos y producir la salida. Un comando ejecuta un proceso en el sistema operativo, y entonces causa que el ordenador realice un trabajo.
 
