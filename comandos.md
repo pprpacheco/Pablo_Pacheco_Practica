@@ -2,7 +2,9 @@
 
 ## Listado de comando mas importantes:
 
-- **// Crea un directorio:**
+- **Crea un directorio:**
+
+
 *mkdir mi_proyecto*
 
 - **// Ir a un directorio:**
