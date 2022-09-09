@@ -3,42 +3,40 @@
 ## Listado de comando mas importantes:
 
 - **Crea un directorio:**
-
-
 *mkdir mi_proyecto*
 
-- **// Ir a un directorio:**
-  - *cd mi_proyecto*
+- **Ir a un directorio:**
+*cd mi_proyecto*
 
-- **// Retroceder un directorio**
-  - *cd ..*
+- **Retroceder un directorio:**
+*cd ..*
 
-- **// Listar el contenido del directorio**
-  - *ls*
+- **Listar el contenido del directorio:**
+*ls*
 
-- **// Touch**
-  - *touch readme.md*
+- **Touch:**
+*touch readme.md*
 
-- **// Mostrar contenido de un directorio**
-  - *cat readme.md*
+- **Mostrar contenido de un directorio:**
+*cat readme.md*
 
-- **// Muestra la ubicación actual**
-  - *pwd*
+- **Muestra la ubicación actual:**
+*pwd*
 
-- **// Borrar un archivo**
-  - *rm readme.md*
+- **Borrar un archivo:**
+*rm readme.md*
 
-- **// Borrar un directorio**
-  - *rm -r readme*
+- **Borrar un directorio:**
+*rm -r readme*
   
-- **// Mover un fichero**
-  - *mv readme.md nueva_ubicacion/readme.md*
+- **Mover un fichero:**
+*mv readme.md nueva_ubicacion/readme.md*
 
-- **// Renombrar un fichero**
-  - *mv readme.md readme_nuevo.md*
+- **Renombrar un fichero:**
+*mv readme.md readme_nuevo.md*
 
-- **// Manual de un comando**
-  - *man ls*
+- **Manual de un comando:**
+*man ls*
   
   ---
 
